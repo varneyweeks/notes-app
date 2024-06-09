@@ -2,10 +2,10 @@ const notescontainer = document.querySelector(".notes-con");
 const createbtn = document.querySelector(".btn");
 const notes = document.querySelector(".input-box");
 
-function shownotes(){
-    notescontainer.innerHTML = localStorage.getItem("notes")
-}
-shownotes();
+// function shownotes(){
+//     notescontainer.innerHTML = localStorage.getItem("notes")
+// }
+// shownotes();
 
 
 
